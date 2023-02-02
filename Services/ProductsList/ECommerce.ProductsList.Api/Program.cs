@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace ECommerce.Products
+namespace ECommerce.ProductsList
 {
     public class Program
     {
