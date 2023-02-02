@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace ECommerce.ProductsDetail
+namespace ECommerce.Products
 {
     public static class Program
     {
