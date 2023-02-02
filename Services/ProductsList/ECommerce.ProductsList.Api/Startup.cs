@@ -7,7 +7,7 @@ using Microsoft.Extensions.Hosting;
 using ECommerce.ProductsList.Application.ApplicationServices.IServices;
 using ECommerce.ProductsList.Application.ApplicationServices.Services;
 
-namespace ECommerce.Products
+namespace ECommerce.ProductsList
 {
     public class Startup
     {
