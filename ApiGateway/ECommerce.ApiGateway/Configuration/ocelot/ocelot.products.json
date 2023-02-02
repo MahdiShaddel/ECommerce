@@ -1,0 +1,10 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/{everything}",
+      "ServiceName": "products",
+      "UpstreamPathTemplate": "/api/P-ApiGateway/{everything}",
+      "SwaggerKey": "products"
+    }
+  ]
+}
